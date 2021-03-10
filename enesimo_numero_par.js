@@ -3,3 +3,4 @@ function solucao(n) {
       var enesimoNumeroPar = 2 * n;
       console.log(enesimoNumeroPar);
   }
+  
